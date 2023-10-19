@@ -61,4 +61,4 @@ while True:
     else:
         print("Opção inválida. Tente novamente.")
 
-# Agora você pode acessar os dados cadastrados nas listas times, jogadores e comissao
+
